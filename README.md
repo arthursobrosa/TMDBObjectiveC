@@ -13,3 +13,7 @@
 
 ## Don't forget to get your API key at this link: <a href="https://developer.themoviedb.org/reference/intro/getting-started">TMDb API</a>
 
+<p>
+    <img src="./REAME-images/apiKey.png" width="400" alt="API Key Reference>
+</p>
+
